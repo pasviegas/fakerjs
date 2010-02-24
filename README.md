@@ -1,4 +1,4 @@
-# Fakerjs
+# fakerjs
 
 A port of Data:Faker based on FFaker (http://github.com/emmanueloga/faker) from EmmanuelOga (http://github.com/EmmanuelOga)
 
